@@ -1,5 +1,3 @@
 {  
-    "Browser": {"default": {"ads":true,"lowEndUI":false}},
-    "LG": "{\"2\":{\"player\":\"native\",\"protocol\":\"smooth\",\"drm\":\"playready\",\"animation\":false,\"lowEndUI\":true},\"3\":{\"player\":\"native\",\"protocol\":\"smooth\",\"drm\":\"playready\",\"animation\":false,\"lowEndUI\":true},\"default\":{\"player\":\"shaka\",\"protocol\":\"dash\",\"drm\":\"widevine\",\"animation\":true,\"ads\":true,\"lowEndUI\":false}}",
-    "Tizen": "{\"2016\":{\"player\":\"native\",\"protocol\":\"smooth\",\"drm\":\"playready\",\"animation\":true,\"lowEndUI\":true},\"2017\":{\"player\":\"shaka\",\"protocol\":\"dash\",\"drm\":\"widevine\",\"animation\":true},\"2018\":{\"player\":\"shaka\",\"protocol\":\"dash\",\"drm\":\"widevine\",\"animation\":true},\"default\":{\"player\":\"shaka\",\"protocol\":\"dash\",\"drm\":\"widevine\",\"animation\":true,\"ads\":true}}"
+    "Browser": {"default": {"ads":true,"lowEndUI":false}}
 }
