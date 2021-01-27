@@ -27,7 +27,7 @@
         "lowEndUI": true
       },
       "2016": {
-        "player": "shak",
+        "player": "shaka",
         "protocol": "dash",
         "drm": "widevine",
         "lowEndUI": true
