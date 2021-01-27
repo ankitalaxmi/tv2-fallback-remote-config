@@ -27,9 +27,9 @@
         "lowEndUI": true
       },
       "2016": {
-        "player": "shaka",
-        "protocol": "dash",
-        "drm": "widevine",
+        "player": "native",
+        "protocol": "smooth",
+        "drm": "playready",
         "lowEndUI": true
       },
       "default": {
