@@ -27,9 +27,9 @@
         "lowEndUI": true
       },
       "2016": {
-        "player": "native",
-        "protocol": "smooth",
-        "drm": "playready",
+        "player": "shak",
+        "protocol": "dash",
+        "drm": "widevine",
         "lowEndUI": true
       },
       "default": {
