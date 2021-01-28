@@ -29,8 +29,7 @@
       "2016": {
         "player": "native",
         "protocol": "smooth",
-        "drm": "playready",
-        "lowEndUI": true
+        "drm": "playready"
       },
       "default": {
         "player": "shaka",
