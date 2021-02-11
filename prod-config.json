@@ -16,8 +16,8 @@
         "protocol": "dash",
         "drm": "widevine",
         "animation": true,
-        "ads": true,
-        "lowEndUI": false
+        "ads": false,
+        "lowEndUI": true
       }
     }
 }
