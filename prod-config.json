@@ -17,7 +17,8 @@
         "drm": "widevine",
         "animation": true,
         "ads": false,
-        "lowEndUI": true
+        "lowEndUI": true,
+        "kantarTrackingEnabled": true
       }
     }
 }
