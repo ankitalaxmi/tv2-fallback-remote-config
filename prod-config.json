@@ -9,7 +9,8 @@
       "2016": {
         "player": "native",
         "protocol": "smooth",
-        "drm": "playready"
+        "drm": "playready",
+        "kantarTrackingEnabled": false
       },
       "default": {
         "player": "shaka",
