@@ -10,6 +10,7 @@
         "player": "native",
         "protocol": "smooth",
         "drm": "playready",
+        "tvodDisabled": true,
         "kantarTrackingEnabled": false
       },
       "default": {
