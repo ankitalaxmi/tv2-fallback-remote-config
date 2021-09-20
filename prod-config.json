@@ -10,7 +10,8 @@
         "player": "native",
         "protocol": "smooth",
         "drm": "playready",
-        "kantarTrackingEnabled": false
+        "kantarTrackingEnabled": false,
+        "ads": true
       },
       "default": {
         "player": "shaka",
