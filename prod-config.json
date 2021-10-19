@@ -20,7 +20,11 @@
         "animation": true,
         "ads": false,
         "lowEndUI": true,
-        "kantarTrackingEnabled": true
+        "kantarTrackingEnabled": true,
+        "debug": false,
+        "showEpg": true,
+        "ignoreMinBufferTime": false,
+        "useAuth0": false
       }
     }
 }
