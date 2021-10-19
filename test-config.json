@@ -10,7 +10,6 @@
         "player": "native",
         "protocol": "smooth",
         "drm": "playready",
-        "tvodDisabled": false,
         "kantarTrackingEnabled": false
       },
       "default": {
@@ -19,7 +18,12 @@
         "drm": "widevine",
         "animation": true,
         "ads": true,
-        "lowEndUI": false
+        "lowEndUI": false,
+        "debug": false,
+        "kantarTrackingEnabled": true,
+        "showEpg": true,
+        "ignoreMinBufferTime": false,
+        "useAuth0": false
       }
     }
 }
