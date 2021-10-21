@@ -11,6 +11,7 @@
         "protocol": "smooth",
         "drm": "playready",
         "kantarTrackingEnabled": false,
+        "showEpg": false,
         "ads": true
       },
       "default": {
