@@ -24,7 +24,7 @@
         "kantarTrackingEnabled": true,
         "showEpg": true,
         "ignoreMinBufferTime": false,
-        "useAuth0": false
+        "useAuth0": true
       }
     }
 }
