@@ -10,7 +10,7 @@
         "player": "native",
         "protocol": "smooth",
         "drm": "playready",
-        "useAuth0": true,
+        "useAuth0": false,
         "kantarTrackingEnabled": false
       },
       "2021": {
