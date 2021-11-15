@@ -10,11 +10,11 @@
         "player": "native",
         "protocol": "smooth",
         "drm": "playready",
-        "useAuth0": false,
+        "useAuth0": true,
         "kantarTrackingEnabled": false
       },
       "2021": {
-        "useAuth0": false
+        "useAuth0": true
       },
       "default": {
         "player": "shaka",
