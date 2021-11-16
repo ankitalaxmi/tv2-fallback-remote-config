@@ -15,7 +15,7 @@
       },
       "2021": {
         "useAuth0": true,
-        "rememberScrollPosition": false  
+        "rememberScrollPosition": true  
       },
       "default": {
         "player": "shaka",
