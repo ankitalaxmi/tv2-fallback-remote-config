@@ -14,8 +14,7 @@
         "kantarTrackingEnabled": false
       },
       "2021": {
-        "useAuth0": true,
-        "rememberScrollPosition": true  
+        "useAuth0": true 
       },
       "default": {
         "player": "shaka",
