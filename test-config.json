@@ -11,12 +11,10 @@
         "protocol": "smooth",
         "drm": "playready",
         "useAuth0": false,
-        "kantarTrackingEnabled": false,
-        "rememberScrollPosition": false
+        "kantarTrackingEnabled": false
       },
       "2021": {
-        "useAuth0": true,
-        "rememberScrollPosition": true  
+        "useAuth0": true 
       },
       "default": {
         "player": "shaka",
