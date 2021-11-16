@@ -11,7 +11,8 @@
         "protocol": "smooth",
         "drm": "playready",
         "useAuth0": false,
-        "kantarTrackingEnabled": false  
+        "kantarTrackingEnabled": false,
+        "rememberScrollPosition": false
       },
       "2021": {
         "useAuth0": true,
