@@ -10,7 +10,7 @@
         "player": "native",
         "protocol": "smooth",
         "drm": "playready",
-        "useAuth0": false,
+        "useAuth0": true,
         "kantarTrackingEnabled": false,
         "rememberScrollPosition": true  
       },
