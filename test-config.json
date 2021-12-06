@@ -15,7 +15,10 @@
         "rememberScrollPosition": true  
       },
       "2021": {
-        "useAuth0": true 
+        "useAuth0": true,
+        "player": "native",
+        "protocol": "smooth",
+        "drm": "playready"
       },
       "default": {
         "player": "shaka",
