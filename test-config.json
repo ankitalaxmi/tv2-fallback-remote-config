@@ -10,7 +10,7 @@
         "player": "native",
         "protocol": "smooth",
         "drm": "playready",
-         "muxTrackingEnabled": false,
+         "muxTrackingEnabled": true,
         "useAuth0": true,
         "kantarTrackingEnabled": false,
         "rememberScrollPosition": true  
