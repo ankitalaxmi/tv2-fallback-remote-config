@@ -1,11 +1,5 @@
 {  
     "Tizen": {
-      "2015": {
-        "player": "native",
-        "protocol": "smooth",
-        "drm": "playready",
-        "lowEndUI": true
-      },
       "2016": {
         "player": "native",
         "protocol": "smooth",
@@ -20,7 +14,9 @@
         "drm": "widevine",
         "animation": true,
         "ads": false,
-        "lowEndUI": true,
+        "lowEndUI": true,,
+        "muxTrackingEnabled": true,
+        "convivaTrackingEnabled": true,
         "kantarTrackingEnabled": true,
         "debug": false,
         "showEpg": true,
