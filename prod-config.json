@@ -14,7 +14,7 @@
         "drm": "widevine",
         "animation": true,
         "ads": false,
-        "lowEndUI": true,,
+        "lowEndUI": true,
         "muxTrackingEnabled": true,
         "convivaTrackingEnabled": true,
         "kantarTrackingEnabled": true,
