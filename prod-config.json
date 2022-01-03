@@ -16,7 +16,7 @@
         "ads": false,
         "lowEndUI": true,
         "muxTrackingEnabled": true,
-        "convivaTrackingEnabled": true,
+        "convivaTrackingEnabled": false,
         "kantarTrackingEnabled": true,
         "debug": false,
         "showEpg": true,
