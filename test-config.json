@@ -26,5 +26,27 @@
         "ignoreMinBufferTime": false,
         "useAuth0": true
       }
+    },
+    "ADB": {
+      "1": {
+        "lowEndUI": true,
+        "drm": "widevine",
+        "protocol": "dash"
+      },
+      "default": {
+        "player": "shaka",
+        "protocol": "dash",
+        "drm": "widevine",
+        "animation": true,
+        "ads": false,
+        "lowEndUI": false,
+        "muxTrackingEnabled": true,
+        "kantarTrackingEnabled": false,
+        "showEpg": true,
+        "ignoreMinBufferTime": false,
+        "useAuth0": false,
+        "rememberScrollPosition": true,
+        "disableXlinkProcessing": false
+      }
     }
 }
