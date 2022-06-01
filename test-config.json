@@ -30,9 +30,9 @@
   "ADB": {
     "1": {
       "lowEndUI": true,
-     "player": "native",
-      "protocol": "smooth",
-      "drm": "playready"
+      "player": "shaka",
+      "protocol": "dash",
+      "drm": "widevine",
     },
     "default": {
       "player": "shaka",
