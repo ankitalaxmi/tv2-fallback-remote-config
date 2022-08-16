@@ -43,7 +43,7 @@
       "lowEndUI": false,
       "muxTrackingEnabled": true,
       "kantarTrackingEnabled": false,
-      "showEpg": true,
+      "showEpg": false,
       "ignoreMinBufferTime": false,
       "useAuth0": false,
       "rememberScrollPosition": true,
